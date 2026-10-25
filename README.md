@@ -1,4 +1,4 @@
-# Soccer-Player-Market-Value-Prediction
+# Soccer Player Market Value Prediction
 
 ### Predicting Soccer Player Valuations Through Machine Learning
 
